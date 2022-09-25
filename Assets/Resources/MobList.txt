@@ -1,0 +1,652 @@
+{
+  "mob": [
+    {
+      "floor": 1,
+      "wave": 1,
+      "level": 1,
+      "name": "Seedling"
+    },
+    {
+      "floor": 1,
+      "wave": 1,
+      "level": 1,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 1,
+      "wave": 1,
+      "level": 1,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 1,
+      "wave": 2,
+      "level": 1,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 1,
+      "wave": 2,
+      "level": 1,
+      "name": "Seedling"
+    },
+    {
+      "floor": 1,
+      "wave": 2,
+      "level": 1,
+      "name": "Beezie"
+    },
+    {
+      "floor": 1,
+      "wave": 3,
+      "level": 1,
+      "name": "Spindle"
+    },
+    {
+      "floor": 1,
+      "wave": 3,
+      "level": 1,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 1,
+      "wave": 3,
+      "level": 1,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 2,
+      "wave": 1,
+      "level": 1,
+      "name": "Beezie"
+    },
+    {
+      "floor": 2,
+      "wave": 1,
+      "level": 1,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 2,
+      "wave": 1,
+      "level": 1,
+      "name": "Seedling"
+    },
+    {
+      "floor": 2,
+      "wave": 2,
+      "level": 2,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 2,
+      "wave": 2,
+      "level": 1,
+      "name": "Seedling"
+    },
+    {
+      "floor": 2,
+      "wave": 2,
+      "level": 1,
+      "name": "Seedling"
+    },
+    {
+      "floor": 2,
+      "wave": 3,
+      "level": 1,
+      "name": "Beezie"
+    },
+    {
+      "floor": 2,
+      "wave": 3,
+      "level": 1,
+      "name": "Beezie"
+    },
+    {
+      "floor": 2,
+      "wave": 3,
+      "level": 1,
+      "name": "Beezie"
+    },
+    {
+      "floor": 3,
+      "wave": 1,
+      "level": 2,
+      "name": "Beezie"
+    },
+    {
+      "floor": 3,
+      "wave": 1,
+      "level": 2,
+      "name": "Beezie"
+    },
+    {
+      "floor": 3,
+      "wave": 1,
+      "level": 1,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 3,
+      "wave": 2,
+      "level": 2,
+      "name": "Spindle"
+    },
+    {
+      "floor": 3,
+      "wave": 2,
+      "level": 2,
+      "name": "Beezie"
+    },
+    {
+      "floor": 3,
+      "wave": 2,
+      "level": 2,
+      "name": "Seedling"
+    },
+    {
+      "floor": 3,
+      "wave": 3,
+      "level": 2,
+      "name": "Seedling"
+    },
+    {
+      "floor": 3,
+      "wave": 3,
+      "level": 2,
+      "name": "Beezie"
+    },
+    {
+      "floor": 3,
+      "wave": 3,
+      "level": 2,
+      "name": "Spindle"
+    },
+    {
+      "floor": 4,
+      "wave": 1,
+      "level": 2,
+      "name": "Beezie"
+    },
+    {
+      "floor": 4,
+      "wave": 1,
+      "level": 2,
+      "name": "Darbat"
+    },
+    {
+      "floor": 4,
+      "wave": 1,
+      "level": 2,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 4,
+      "wave": 2,
+      "level": 2,
+      "name": "Beezie"
+    },
+    {
+      "floor": 4,
+      "wave": 2,
+      "level": 2,
+      "name": "Darbat"
+    },
+    {
+      "floor": 4,
+      "wave": 2,
+      "level": 3,
+      "name": "Seedling"
+    },
+    {
+      "floor": 4,
+      "wave": 3,
+      "level": 3,
+      "name": "Darbat"
+    },
+    {
+      "floor": 4,
+      "wave": 3,
+      "level": 2,
+      "name": "Beezie"
+    },
+    {
+      "floor": 4,
+      "wave": 3,
+      "level": 3,
+      "name": "Seedling"
+    },
+    {
+      "floor": 6,
+      "wave": 1,
+      "level": 3,
+      "name": "Spindle"
+    },
+    {
+      "floor": 6,
+      "wave": 1,
+      "level": 2,
+      "name": "Darbat"
+    },
+    {
+      "floor": 6,
+      "wave": 1,
+      "level": 3,
+      "name": "Beezie"
+    },
+    {
+      "floor": 6,
+      "wave": 2,
+      "level": 1,
+      "name": "Shroomy"
+    },
+    {
+      "floor": 6,
+      "wave": 2,
+      "level": 4,
+      "name": "Seedling"
+    },
+    {
+      "floor": 6,
+      "wave": 2,
+      "level": 4,
+      "name": "Seedling"
+    },
+    {
+      "floor": 6,
+      "wave": 3,
+      "level": 3,
+      "name": "Spindle"
+    },
+    {
+      "floor": 6,
+      "wave": 3,
+      "level": 3,
+      "name": "Darbat"
+    },
+    {
+      "floor": 6,
+      "wave": 3,
+      "level": 3,
+      "name": "Darbat"
+    },
+    {
+      "floor": 7,
+      "wave": 1,
+      "level": 2,
+      "name": "Shroomy"
+    },
+    {
+      "floor": 7,
+      "wave": 1,
+      "level": 3,
+      "name": "Darbat"
+    },
+    {
+      "floor": 7,
+      "wave": 1,
+      "level": 6,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 7,
+      "wave": 2,
+      "level": 6,
+      "name": "Seedling"
+    },
+    {
+      "floor": 7,
+      "wave": 2,
+      "level": 5,
+      "name": "Beezie"
+    },
+    {
+      "floor": 7,
+      "wave": 2,
+      "level": 6,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 7,
+      "wave": 3,
+      "level": 5,
+      "name": "Spindle"
+    },
+    {
+      "floor": 7,
+      "wave": 3,
+      "level": 3,
+      "name": "Spindle"
+    },
+    {
+      "floor": 7,
+      "wave": 3,
+      "level": 4,
+      "name": "Spindle"
+    },
+    {
+      "floor": 8,
+      "wave": 1,
+      "level": 2,
+      "name": "Ghast"
+    },
+    {
+      "floor": 8,
+      "wave": 1,
+      "level": 3,
+      "name": "Shroomy"
+    },
+    {
+      "floor": 8,
+      "wave": 1,
+      "level": 6,
+      "name": "Seedling"
+    },
+    {
+      "floor": 8,
+      "wave": 2,
+      "level": 4,
+      "name": "Darbat"
+    },
+    {
+      "floor": 8,
+      "wave": 2,
+      "level": 7,
+      "name": "Beezie"
+    },
+    {
+      "floor": 8,
+      "wave": 2,
+      "level": 3,
+      "name": "Hatchet"
+    },
+    {
+      "floor": 8,
+      "wave": 3,
+      "level": 4,
+      "name": "Hatchet"
+    },
+    {
+      "floor": 8,
+      "wave": 3,
+      "level": 8,
+      "name": "Beezie"
+    },
+    {
+      "floor": 8,
+      "wave": 3,
+      "level": 4,
+      "name": "Ghast"
+    },
+    {
+      "floor": 9,
+      "wave": 1,
+      "level": 8,
+      "name": "Beezie"
+    },
+    {
+      "floor": 9,
+      "wave": 1,
+      "level": 8,
+      "name": "Seedling"
+    },
+    {
+      "floor": 9,
+      "wave": 1,
+      "level": 9,
+      "name": "Chicklet"
+    },
+    {
+      "floor": 9,
+      "wave": 2,
+      "level": 6,
+      "name": "Spindle"
+    },
+    {
+      "floor": 9,
+      "wave": 2,
+      "level": 5,
+      "name": "Hatchet"
+    },
+    {
+      "floor": 9,
+      "wave": 2,
+      "level": 5,
+      "name": "Hatchet"
+    },
+    {
+      "floor": 9,
+      "wave": 3,
+      "level": 6,
+      "name": "Ghast"
+    },
+    {
+      "floor": 9,
+      "wave": 3,
+      "level": 9,
+      "name": "Seedling"
+    },
+    {
+      "floor": 9,
+      "wave": 3,
+      "level": 5,
+      "name": "Ghast"
+    },
+    {
+      "floor": 11,
+      "wave": 1,
+      "level": 10,
+      "name": "Darbat"
+    },
+    {
+      "floor": 11,
+      "wave": 1,
+      "level": 10,
+      "name": "Seedling"
+    },
+    {
+      "floor": 11,
+      "wave": 1,
+      "level": 10,
+      "name": "Beezie"
+    },
+    {
+      "floor": 11,
+      "wave": 2,
+      "level": 7,
+      "name": "Ghast"
+    },
+    {
+      "floor": 11,
+      "wave": 2,
+      "level": 7,
+      "name": "Hatchet"
+    },
+    {
+      "floor": 11,
+      "wave": 2,
+      "level": 11,
+      "name": "Darbat"
+    },
+    {
+      "floor": 11,
+      "wave": 3,
+      "level": 12,
+      "name": "Spindle"
+    },
+    {
+      "floor": 11,
+      "wave": 3,
+      "level": 13,
+      "name": "Seedling"
+    },
+    {
+      "floor": 11,
+      "wave": 3,
+      "level": 11,
+      "name": "Beezie"
+    },
+    {
+      "floor": 12,
+      "wave": 1,
+      "level": 1,
+      "name": "Fledger"
+    },
+    {
+      "floor": 12,
+      "wave": 1,
+      "level": 11,
+      "name": "Spindle"
+    },
+    {
+      "floor": 12,
+      "wave": 1,
+      "level": 10,
+      "name": "Hatchet"
+    },
+    {
+      "floor": 12,
+      "wave": 2,
+      "level": 13,
+      "name": "Darbat"
+    },
+    {
+      "floor": 12,
+      "wave": 2,
+      "level": 12,
+      "name": "Darbat"
+    },
+    {
+      "floor": 12,
+      "wave": 2,
+      "level": 10,
+      "name": "Ghast"
+    },
+    {
+      "floor": 12,
+      "wave": 3,
+      "level": 16,
+      "name": "Seedling"
+    },
+    {
+      "floor": 12,
+      "wave": 3,
+      "level": 15,
+      "name": "Spindle"
+    },
+    {
+      "floor": 12,
+      "wave": 3,
+      "level": 17,
+      "name": "Beezie"
+    },
+    {
+      "floor": 13,
+      "wave": 1,
+      "level": 1,
+      "name": "Fledger"
+    },
+    {
+      "floor": 13,
+      "wave": 1,
+      "level": 16,
+      "name": "Spindle"
+    },
+    {
+      "floor": 13,
+      "wave": 1,
+      "level": 1,
+      "name": "Sprousel"
+    },
+    {
+      "floor": 13,
+      "wave": 2,
+      "level": 16,
+      "name": "Ghast"
+    },
+    {
+      "floor": 13,
+      "wave": 2,
+      "level": 18,
+      "name": "Spindle"
+    },
+    {
+      "floor": 13,
+      "wave": 2,
+      "level": 18,
+      "name": "Beezie"
+    },
+    {
+      "floor": 13,
+      "wave": 3,
+      "level": 1,
+      "name": "Wornest"
+    },
+    {
+      "floor": 13,
+      "wave": 3,
+      "level": 1,
+      "name": "Fledger"
+    },
+    {
+      "floor": 13,
+      "wave": 3,
+      "level": 2,
+      "name": "Sprousel"
+    },
+    {
+      "floor": 14,
+      "wave": 1,
+      "level": 1,
+      "name": "Vampeer"
+    },
+    {
+      "floor": 14,
+      "wave": 1,
+      "level": 1,
+      "name": "Wornest"
+    },
+    {
+      "floor": 14,
+      "wave": 1,
+      "level": 1,
+      "name": "Fungoos"
+    },
+    {
+      "floor": 14,
+      "wave": 2,
+      "level": 2,
+      "name": "Fledger"
+    },
+    {
+      "floor": 14,
+      "wave": 2,
+      "level": 21,
+      "name": "Ghast"
+    },
+    {
+      "floor": 14,
+      "wave": 2,
+      "level": 21,
+      "name": "Spindle"
+    },
+    {
+      "floor": 14,
+      "wave": 3,
+      "level": 1,
+      "name": "Spoxin"
+    },
+    {
+      "floor": 14,
+      "wave": 3,
+      "level": 1,
+      "name": "Fungoos"
+    },
+    {
+      "floor": 14,
+      "wave": 3,
+      "level": 2,
+      "name": "Wornest"
+    }
+  ]
+}
